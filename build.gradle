@@ -29,3 +29,6 @@ java {
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
 }
+
+// https://mvnrepository.com/artifact/org.web3j/core
+compile group: 'org.web3j', name: 'core', version: '5.0.0'
